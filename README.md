@@ -19,7 +19,8 @@ You can use variables:
   ``time``
   elapsed time since launching program
 
-You can change scale of your graph in scale massive
+You can change scale of your graph in scale massive:
+
   ``scale.x``
   Changes the X scale
   
